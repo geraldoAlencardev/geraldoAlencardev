@@ -32,7 +32,7 @@ Tenho experiência prática com:
 - Sistemas Operacionais: **Windows**, **Linux**, **Mac OS X**  
 - Testes unitários e boas práticas de qualidade de software
 
-🧠 Sempre aprendendo algo novo — atualmente me aprofundando em **Spring Cloud** e **segurança com JWT**.  
+🧠 Sempre aprendendo algo novo, atualmente me aprofundando em **Spring Cloud** e **segurança com JWT**.  
 Também possuo noções em **Redes de Computadores** e **Segurança da Informação**.
 
 ---
