@@ -9,7 +9,7 @@
 ### 🎓 Formação
 
 **Engenharia de Software** — Universidade Católica do Salvador  
-📅 2023 – 2026 (Cursando 6º semestre - período matutino)
+📅 2023 – 2026 (Cursando 7º semestre - período noturno)
 
 ---
 
